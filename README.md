@@ -1,8 +1,10 @@
 # AVD-POST-TEST-1
 
-# MARKETING CAMPAIGN DATA
+# JUDUL : MARKETING CAMPAIGN DATA
 
 # BUSINESS UNDERSTANDING
+
+
 # BUSINESS OBJECTIVE
 ![WhatsApp Image 2026-02-14 at 16 52 01](https://github.com/user-attachments/assets/16254a16-69ad-4dcb-8e41-5c2247fb8fcb)
 
